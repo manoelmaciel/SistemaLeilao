@@ -1,5 +1,5 @@
 /* 
- * Sistema Leilão - Versão 1, 
+ * Sistema Leilão - Versão 2.0, 
  * Adaptado para o Tutorial
  * Por: Manoel Braz Maciel
  */
@@ -35,7 +35,14 @@ public class AvaliadorTest {
 
         double maiorLanceEsperado = 1300.0;              
         Assert.assertEquals(leiloeiro.getMaiorLance(), maiorLanceEsperado);
+        double menorLanceEsperado = 1100.0;              
+        Assert.assertEquals(leiloeiro.getMenorLance(), menorLanceEsperado);
         
     }	
 	
 }
+
+
+
+
+
