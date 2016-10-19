@@ -1,11 +1,11 @@
 /* 
- * Sistema Leilão - Versão 2.0 
+ * Sistema Leilão - Versão 2.0 - Finalizado, 
  * Adaptado para o Tutorial
  * Por: Manoel Braz Maciel
  * 
  */
 
-package fontes_Versao1;
+package fontes_Versao2;
 
 public class Avaliador {
     

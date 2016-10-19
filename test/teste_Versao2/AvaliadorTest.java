@@ -1,18 +1,18 @@
 /* 
- * Sistema Leilão - Versão 2.0, 
+ * Sistema Leilão - Versão 2.0 - Finalizado, 
  * Adaptado para o Tutorial
  * Por: Manoel Braz Maciel
  */
 
-package teste_Versao1;
+package teste_Versao2;
 import junit.framework.Assert;
 
 import org.junit.Test;
 
-import fontes_Versao1.Avaliador;
-import fontes_Versao1.Lance;
-import fontes_Versao1.Leilao;
-import fontes_Versao1.Usuario;
+import fontes_Versao2.Avaliador;
+import fontes_Versao2.Lance;
+import fontes_Versao2.Leilao;
+import fontes_Versao2.Usuario;
 
 @SuppressWarnings("deprecation")
 public class AvaliadorTest {

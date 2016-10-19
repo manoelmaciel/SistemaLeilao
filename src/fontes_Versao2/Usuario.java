@@ -5,7 +5,7 @@
  * Casa do Código
  * http://www.casadocodigo.com.br/products/livro-testes-de-software
  */
-package fontes_Versao1;
+package fontes_Versao2;
 
 /**
  *
